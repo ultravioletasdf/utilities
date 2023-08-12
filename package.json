@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@splitscript.js/discord": "^2.0.2",
+		"@splitscript.js/scheduler": "^1.0.0"
+	}
+}
