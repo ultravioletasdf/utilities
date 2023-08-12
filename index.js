@@ -1,7 +1,6 @@
 const discord = require('@splitscript.js/discord')
 const scheduler = require('@splitscript.js/scheduler')
 
-scheduler.start()
 
 discord.listen(
 	'OTMyMjU3MDk5Mjg5ODc4NTI4.G_-NPB.RvgpmD4eLbsKYN-K29-3zm3g_WppBFV5ysVaI8',
